@@ -66,3 +66,14 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Ejecutables del proyecto y de los experimentos
+celda
+memoria
+destructores
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+Claude outputs/
